@@ -2,7 +2,7 @@
 Some utilities and scripts for mac os
 
 
-Flush dns cache:
+## Flush dns cache:
 
 ```
 sudo discoveryutil udnsflushcaches
